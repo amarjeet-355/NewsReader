@@ -41,7 +41,7 @@ const NewsItem = (props) => {
             rel="noreferrer"
             href={newsUrl}
             target="_blank"
-            className="btn btn-dark"
+            className="btn btn-outline-primary"
             style={{
               width: '100%',
               padding: '10px',
