@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Andrew McMurtry",
+        "title": "‘Tragic news’: Cricket legend dead at 55",
+        "description": "The cricket world has been left in shock and mourning after the death of former England batter Graham Thorpe died at the age of 55, the England and Wales Cricket Board announced.",
+        "url": "https://www.news.com.au/sport/cricket/cricket-world-rocked-by-graham-thorpes-shock-death-at-55/news-story/ed8a0bc6709f344da0430289730f4f5c",
+        "urlToImage": "https://content.api.news/v3/images/bin/e32e9b9d7467a5a05905c06f44dcab31",
+        "publishedAt": "2024-08-05T07:53:00Z",
+        "content": "The cricket world has been left in shock and mourning after the death of former England batter Graham Thorpe died at the age of 55, the England and Wales Cricket Board announced.\r\nThe left-hander has… [+2510 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Graham Thorpe: Former England batter dies aged 55",
+        "description": "Former England and Surrey batter Graham Thorpe dies aged 55, says the England and Wales Cricket Board.",
+        "url": "http://www.bbc.co.uk/sport/cricket/articles/c06kkkkjmz6o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+        "publishedAt": "2024-08-05T07:37:18.2643617Z",
+        "content": "Former England and Surrey batter Graham Thorpe has died aged 55, the England and Wales Cricket Board has announced.\r\nThorpe played 100 Tests for England between 1993 and 2005, as well as 82 one-day i… [+975 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
